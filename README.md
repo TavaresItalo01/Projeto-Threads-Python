@@ -19,7 +19,7 @@ Este projeto utiliza **threads em Python** para acelerar a verificação da quan
 - **Python** - Linguagem principal.
 - **Módulo `threading`** - Responsável pela execução concorrente.
 
-## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto localmente
 
 1. Clone o repositório:
    ```sh
